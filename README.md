@@ -24,6 +24,12 @@ Estrutura de páginas para navegação:
 - Editar prato (para administradores)
 - Favoritos
 
+![Imagem 1](https://i.imgur.com/ya6q5Nl.png)
+![Imagem 2](https://i.imgur.com/x1eMrvJ.png)
+![Imagem 3](https://i.imgur.com/ZtZcq98.png)
+![Imagem 4](https://i.imgur.com/tPQH0Z4.png)
+
+
 <h2 id="features">✨ Funcionalidades</h2>
 
 ### Funcionalidades Gerais
