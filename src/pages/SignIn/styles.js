@@ -46,7 +46,7 @@ export const Form = styled.form`
     padding: 6.4rem;
     border-radius: 1.6rem;
 
-    background-color: ${({ theme }) => theme.COLORS.BLUE_200};
+    background-color: ${({ theme }) => theme.COLORS.RED};
     -webkit-box-shadow: 0px 0px 10px 5px #193746; 
     box-shadow: 0px 0px 10px 5px #193746;
 
@@ -64,7 +64,7 @@ export const Form = styled.form`
         margin-top: 3.2rem;
         
         text-align: center;
-        color: ${({ theme }) => theme.COLORS.BLUE};
+        color: ${({ theme }) => theme.COLORS.RED};
     }
 
     > .inputs {
@@ -81,7 +81,7 @@ export const Form = styled.form`
 export const Logo = styled.div`
     display: flex;
     align-items: center;
-    color: ${({ theme }) => theme.COLORS.BLUE};
+    color: ${({ theme }) => theme.COLORS.RED};
     margin-bottom: 4rem;
 
     h1 {
