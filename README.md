@@ -9,7 +9,7 @@
 
 Food Explorer é o desafio final da trilha Explorer/Fullstack da Rocketseat. Trata-se de uma aplicação de cardápio digital que simula um restaurante fictício, onde clientes podem explorar pratos, favoritar suas escolhas e gerenciar pedidos, enquanto administradores têm controle total para gerenciar o cardápio.
 
-Este é o repositório do front-end da aplicação, que exibe a interface de usuário. O back-end, responsável pela lógica e armazenamento dos dados, está disponível aqui.
+Este é o repositório do front-end da aplicação, que exibe a interface de usuário. O back-end, responsável pela lógica e armazenamento dos dados, está disponível [aqui.](https://github.com/kenichi-akira/Matt-Food-Explorer-Backend/tree/main)
 <h2 id="pages">📃 Páginas</h2>
 
 A aplicação conta com as seguintes páginas para navegação:
