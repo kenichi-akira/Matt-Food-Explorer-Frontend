@@ -81,7 +81,7 @@ export const Content = styled.div`
         
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
-        background-color: ${({ theme }) => theme.COLORS.RED};
+        background-color: ${({ theme }) => theme.COLORS.BLUE};
     }
 
     @media only screen and (max-width: 768px) {
@@ -102,7 +102,7 @@ export const Content = styled.div`
             gap: 2rem;
             padding: 5rem 5rem 3rem;
             border-radius: 0 0 2rem 2rem;
-            border: 1px solid ${({ theme }) => theme.COLORS.RED};
+            border: 1px solid ${({ theme }) => theme.COLORS.BLUE};
             
             transition: 0.3s;
             
