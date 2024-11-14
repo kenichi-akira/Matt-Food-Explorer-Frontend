@@ -81,7 +81,7 @@ export const Form = styled.form`
 export const Logo = styled.div`
     display: flex;
     align-items: center;
-    color: ${({ theme }) => theme.COLORS.BLUE};
+    color: ${({ theme }) => theme.COLORS.WHITE};
     margin-bottom: 4rem;
 
     h1 {
