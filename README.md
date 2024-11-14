@@ -52,9 +52,10 @@ O projeto utiliza as seguintes tecnologias:
 
 <h2 id="usage">💡 Utilização</h2>
 
-A aplicação está disponível para uso online. Para acessar, clique aqui.
+A aplicação está disponível para uso online. Para acessar, clique aqui. [https://matt-food-explorer-frontend.netlify.app/](https://matt-food-explorer-frontend.netlify.app/)
 
-⚠️ Nota Importante: Este projeto utiliza uma hospedagem gratuita para o back-end, o que pode resultar em pequenos atrasos no tempo de resposta quando o servidor está inativo.
+⚠️ **Importante!!!** Este projeto utiliza uma hospedagem gratuita para o back-end, o que pode resultar em pequenos atrasos no tempo de resposta quando o servidor está inativo, então comandos básicos como login e criação de conta podem levar um tempo, além de uma leve demora no carregamento de imagens.
+
 <h2 id="install">🛠 Instalação</h2>
 
 Para rodar o projeto em sua máquina local, siga os passos abaixo. Certifique-se de que o Node.js e o npm estejam instalados.
