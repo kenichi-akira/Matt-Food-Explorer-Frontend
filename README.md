@@ -69,19 +69,19 @@ Para rodar o projeto em sua máquina local, siga os passos abaixo. Certifique-se
 
 1. Clone o repositório:
 
-       git clone https://github.com/kenichi-akira/Matt-Food-Explorer-Frontend
+       $ git clone https://github.com/kenichi-akira/Matt-Food-Explorer-Frontend
 
 2. Acesse a pasta do projeto:
 
-       cd Matt-Food-Explorer-Frontend
+       $ cd Matt-Food-Explorer-Frontend
 
 3. Instale as dependências:
 
-       npm install
+       $ npm install
 
 4. Inicie o servidor de desenvolvimento:
 
-       npm run dev
+       $ npm run dev
 
 Após seguir esses passos, a aplicação estará rodando localmente e você poderá acessá-la pelo navegador no endereço local indicado no terminal.
 <h2 id="license">📝 Licença</h2>
