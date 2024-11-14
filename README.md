@@ -23,9 +23,10 @@ A aplicação conta com as seguintes páginas para navegação:
     Favoritos
 
 <h2 id="features">✨ Funcionalidades</h2>
+
 ### Funcionalidades Gerais
 
-    Cadastro e login de usuários
+    - Cadastro e login de usuários
     Pesquisa de pratos por nome e ingredientes
     Exibição de detalhes de pratos
 
