@@ -28,27 +28,27 @@ A aplicação conta com as seguintes páginas para navegação:
 
 ### Funcionalidades Gerais
 
-    Cadastro e login de usuários
+    - Cadastro e login de usuários
     
-    Pesquisa de pratos por nome e ingredientes
+    - Pesquisa de pratos por nome e ingredientes
     
-    Exibição de detalhes de pratos
+    - Exibição de detalhes de pratos
 
 ### Funcionalidades para Clientes
 
-    Adicionar pratos aos favoritos e visualizar a lista de favoritos
+    - Adicionar pratos aos favoritos e visualizar a lista de favoritos
     
-    Adicionar itens ao carrinho e realizar check-out com visualização do total do pedido
+    - Adicionar itens ao carrinho e realizar check-out com visualização do total do pedido
 
 ### Funcionalidades para Administradores
 
-    Adicionar, editar e excluir pratos do cardápio
+    - Adicionar, editar e excluir pratos do cardápio
     
-    Atualizar o status dos pedidos de acordo com o progresso
+    - Atualizar o status dos pedidos de acordo com o progresso
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
-O projeto utiliza as seguintes tecnologias:
+O projeto tem como dependências:
 
 - React.js para o desenvolvimento da interface
 - JavaScript para a lógica do front-end
