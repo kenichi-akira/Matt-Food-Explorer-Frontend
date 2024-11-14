@@ -4,7 +4,7 @@
 Matt-Food-Explorer-Frontend
 <h1 align="center" style="text-align: center;"> Food Explorer </h1>
 
-    Um cardápio digital para um restaurante fictício
+    O que é: Um cardápio digital para um restaurante fictício
 
 <p align="center"> <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#pages">Páginas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#features">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#usage">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#install">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#license">Licença</a> </p> <p align="center"> <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000"> </p> <h2 id="project">📁 Projeto</h2>
 
