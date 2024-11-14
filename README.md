@@ -14,30 +14,36 @@ Este é o repositório do front-end da aplicação, que exibe a interface de usu
 
 A aplicação conta com as seguintes páginas para navegação:
 
-    Login
-    Cadastro
-    Página principal (Home)
-    Detalhes do prato
-    Novo prato (para administradores)
-    Editar prato (para administradores)
-    Favoritos
+- Login
+- Cadastro
+- Página principal (Home)
+- Perfil do Usuário
+- Detalhes do prato
+- Ordens
+- Novo prato (para administradores)
+- Editar prato (para administradores)
+- Favoritos
 
 <h2 id="features">✨ Funcionalidades</h2>
 
 ### Funcionalidades Gerais
 
-    - Cadastro e login de usuários
+    Cadastro e login de usuários
+    
     Pesquisa de pratos por nome e ingredientes
+    
     Exibição de detalhes de pratos
 
 ### Funcionalidades para Clientes
 
     Adicionar pratos aos favoritos e visualizar a lista de favoritos
+    
     Adicionar itens ao carrinho e realizar check-out com visualização do total do pedido
 
 ### Funcionalidades para Administradores
 
     Adicionar, editar e excluir pratos do cardápio
+    
     Atualizar o status dos pedidos de acordo com o progresso
 
 <h2 id="technologies">💻 Tecnologias</h2>
