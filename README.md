@@ -43,12 +43,12 @@ Funcionalidades para Administradores
 
 O projeto utiliza as seguintes tecnologias:
 
-    React.js para o desenvolvimento da interface
-    JavaScript para a lógica do front-end
-    Axios para requisições HTTP
-    react-router-dom para a navegação entre páginas
-    styled-components para estilização
-    splidejs para slides e carrosséis interativos
+- React.js para o desenvolvimento da interface
+- JavaScript para a lógica do front-end
+- Axios para requisições HTTP
+- react-router-dom para a navegação entre páginas
+- styled-components para estilização
+- splidejs para slides e carrosséis interativos
 
 <h2 id="usage">💡 Utilização</h2>
 
