@@ -5,14 +5,14 @@
 
     O que é: Um cardápio digital para um restaurante fictício
 
-<p align="center"> <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#pages">Páginas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#features">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#usage">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#install">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#license">Licença</a> </p> <p align="center"> <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000"> </p> <h2 id="project">📁 Projeto</h2>
+<p align="center"> <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#Structure">Estrutura</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#features">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#usage">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#install">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#license">Licença</a> </p> <p align="center"> <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000"> </p> <h2 id="project">📁 Projeto</h2>
 
 Food Explorer é o desafio final da trilha Explorer/Fullstack da Rocketseat. Trata-se de uma aplicação de cardápio digital que simula um restaurante fictício, onde clientes podem explorar pratos, favoritar suas escolhas e gerenciar pedidos, enquanto administradores têm controle total para gerenciar o cardápio.
 
 Este é o repositório do front-end da aplicação, que exibe a interface de usuário. O back-end, responsável pela lógica e armazenamento dos dados, está disponível [aqui.](https://github.com/kenichi-akira/Matt-Food-Explorer-Backend/tree/main)
-<h2 id="pages">📃 Páginas</h2>
+<h2 id="Structure">📌 Estrutura</h2>
 
-A aplicação conta com as seguintes páginas para navegação:
+Estrutura de páginas para navegação:
 
 - Login
 - Cadastro
