@@ -1,7 +1,6 @@
 # Matt-Food-Explorer-Frontend
  Projeto food explorer: Frontend do desafio final da trilha Explorer da Rocketseat. 
 
-Matt-Food-Explorer-Frontend
 <h1 align="center" style="text-align: center;"> Food Explorer </h1>
 
     O que é: Um cardápio digital para um restaurante fictício
